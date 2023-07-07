@@ -9,11 +9,17 @@
 <div align='left'>
   <h3>🤓Languages and Frameworks</h3>
   <div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg'
+         width='40' height='40' title='Dart' alt='Dart'
+    />
     <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'
          width='40' height='40' title='Flutter' alt='Flutter'
     />
-    <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'
+    <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg'
          width='40' height='40' title='Swift' alt='Swift'
+    />
+    <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'
+         width='40' height='40' title='SwiftUi' alt='SwiftUi'
     />
     
   </div>
