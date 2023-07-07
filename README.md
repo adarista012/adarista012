@@ -12,7 +12,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'
          width='40' height='40' title='Flutter' alt='Flutter'
     />
-    <img src='[https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg](https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg)'
+    <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'
          width='40' height='40' title='Swift' alt='Swift'
     />
     
