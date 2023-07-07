@@ -10,7 +10,7 @@
   <h3>🤓Languages and Frameworks</h3>
   <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'
-         width='40' title='Flutter' alt='Flutter'
+         width='40' height='40' title='Flutter' alt='Flutter'
     />
     
   </div>
