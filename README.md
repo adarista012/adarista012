@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more about AR.
 - 👯 I’m looking to collaborate on AR anf Healthcare
 <div align='left'>
-  <h3>🤓Languages and Frameworks</h3>
+  <h3>🤓 Languages, Frameworks and tools</h3>
   <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg'
          width='40' height='40' title='Dart' alt='Dart'
