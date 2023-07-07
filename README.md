@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# I'm a Mobile developer  
-# I’m enthusiastic about telemedicine and everything related to health and AR.
+#### I'm a Mobile developer  
+#### I’m enthusiastic about telemedicine and everything related to health and AR.
 
 - 🔭 I’m currently working on growing my career.
 - 🌱 I’m currently learning more about AR.
