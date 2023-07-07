@@ -11,16 +11,16 @@
   <div>
     <img src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg'
          width='40' height='40' title='Dart' alt='Dart'
-    />
+    />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'
          width='40' height='40' title='Flutter' alt='Flutter'
-    />
+    />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg'
          width='40' height='40' title='Swift' alt='Swift'
-    />
+    />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'
          width='40' height='40' title='SwiftUi' alt='SwiftUi'
-    />
+    />&nbsp;
     
   </div>
 </div>
