@@ -6,7 +6,14 @@
 - 🔭 I’m currently working on growing my career.
 - 🌱 I’m currently learning more about AR.
 - 👯 I’m looking to collaborate on AR anf Healthcare
-
+<div align="left">
+  <h3>🤓Languages and Frameworks</h3>
+  <div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'
+      />
+    
+  </div>
+</div>
 <!--
 **adarista012/adarista012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
