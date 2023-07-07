@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Mobile developer  
+#### I'm a Mobile developer, Senior Flutter
 #### I’m enthusiastic about telemedicine and everything related to health and AR.
 
 - 🔭 I’m currently working on growing my career.
