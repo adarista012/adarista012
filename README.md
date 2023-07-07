@@ -21,6 +21,9 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'
          width='40' height='40' title='SwiftUi' alt='SwiftUi'
     />&nbsp;
+    <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg'
+         width='40' height='40' title='Firebase' alt='Firebase'
+    />&nbsp;
     
   </div>
 </div>
