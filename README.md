@@ -3,8 +3,8 @@
 #### I'm a Mobile developer, Senior Flutter
 #### I’m enthusiastic about telemedicine and everything related to health and AR.
 
-- 🔭 I’m currently working on growing my career.
-- 🌱 I’m currently learning more about AR.
+- 🔭 I’m working on growing my career.
+- 🌱 I’m learning more about AR.
 - 👯 I’m looking to collaborate on AR anf Healthcare
 <div align='left'>
   <h3>🤓 Languages, Frameworks and tools</h3>
