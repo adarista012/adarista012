@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on growing my career.
 - 🌱 I’m learning more about AR.
-- 👯 I’m looking to collaborate on AR anf Healthcare
+- 👯 I’m looking to collaborate on AR and Healthcare
 <div align='left'>
   <h3>🤓 Languages, Frameworks and tools</h3>
   <div>
