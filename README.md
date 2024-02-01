@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 #### I'm a Mobile developer, Senior Flutter
-#### I’m enthusiastic about telemedicine and everything related to health and AR.
+#### I’m enthusiastic about tech and everything related to health.
 
 - 🔭 I’m working on growing my career.
-- 🌱 I’m learning more about AR.
-- 👯 I’m looking to collaborate on AR, Healthcare and Fintechs
+- 🌱 I’m learning Solidity.
+- 👯 I’m looking to collaborate with Healthtechs and Fintechs
 <div align='left'>
   <h3>🤓 Languages, Frameworks and tools</h3>
   <div>
