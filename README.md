@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-#### I'm a Mobile developer, Senior Flutter
-#### I’m enthusiastic about tech and everything related to health.
+#### I'm a Mobile developer
+#### I’m enthusiastic about tech and everything related to health and finances.
 
 - 🔭 I’m working on growing my career.
 - 🌱 I’m learning Solidity.
@@ -20,6 +20,15 @@
     />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'
          width='40' height='40' title='SwiftUi' alt='SwiftUi'
+    />&nbsp;
+    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'
+         width='40' height='40' title='SwiftUi' alt='SwiftUi'
+    />&nbsp;
+    <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg'
+         width='40' height='40' title='TypeScript' alt='TypeScript'
+    />&nbsp;
+    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'
+         width='40' height='40' title='Python' alt='Python'
     />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg'
          width='40' height='40' title='Firebase' alt='Firebase'
