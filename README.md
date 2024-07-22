@@ -4,8 +4,8 @@
 #### I’m enthusiastic about tech and everything related to health and finances.
 
 - 🔭 I’m working on growing my career.
-- 🌱 I’m learning Solidity.
-- 👯 I’m looking to collaborate with Healthtechs and Fintechs
+- 🌱 I’m learning more about AI.
+- 👯 I’m looking to collaborate with Healthtechs and Fintechs.
 <div align='left'>
   <h3>🤓 Languages, Frameworks and tools</h3>
   <div>
