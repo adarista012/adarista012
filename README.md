@@ -21,15 +21,15 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'
          width='40' height='40' title='SwiftUi' alt='SwiftUi'
     />&nbsp;
-    <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'
+<!--     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'
          width='40' height='40' title='SwiftUi' alt='SwiftUi'
-    />&nbsp;
+    />&nbsp; -->
     <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg'
          width='40' height='40' title='TypeScript' alt='TypeScript'
     />&nbsp;
-<!--     <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'
+    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'
          width='40' height='40' title='Python' alt='Python'
-    />&nbsp; -->
+    />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg'
          width='40' height='40' title='Firebase' alt='Firebase'
     />&nbsp;
