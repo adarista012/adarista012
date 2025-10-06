@@ -1,59 +1,78 @@
-### Hi there 👋 I'm **Antonio Dante Arista Rivas**
+<h2 align="center">👋 Hi there, I'm <strong>Antonio Dante Arista Rivas</strong></h2>
 
-#### ⚡ Senior React Native & Flutter Developer | AI · HealthTech · FinTech  
-📍 La Paz, Bolivia | 🌎 Remote | ✉️ [ad.arista012@gmail.com](mailto:ad.arista012@gmail.com)
+<h4 align="center">⚡ Senior React Native & Flutter Developer · AI | HealthTech | FinTech</h4>
+
+<p align="center">
+  📍 La Paz, Bolivia · 🌎 Remote · ✉️ 
+  <a href="mailto:ad.arista012@gmail.com">ad.arista012@gmail.com</a>
+</p>
 
 ---
 
-### 🧩 About Me
+### 🧠 About Me
 
-I’m a **Mobile Developer with 9+ years of experience** building cross-platform apps for **HealthTech** and **FinTech** companies across 🇨🇦 🇺🇸 🇲🇽 🇨🇴.  
-My focus is on **React Native** and **Flutter**, crafting performant mobile experiences that merge **AI, biometrics, and great UX**.
+I’m a **Senior Mobile Developer with 9+ years of experience** building apps for **HealthTech** and **FinTech** companies across 🇨🇦 🇺🇸 🇲🇽 🇨🇴.  
+Focused on **React Native** and **Flutter**, I create seamless mobile experiences powered by **AI, biometrics, and exceptional UX**.
 
-- 💼 **Lucid (Canada)** – built a *React Native app* combining music + biometrics for flow and recovery.  
-- 💰 **Vureloapp (Colombia)** – *Flutter-based crypto wallet* integrated with blockchain APIs.  
-- 💳 **KingTide (USA)** – *iOS app in Flutter* with Firebase OTP and Stripe payments.  
-- 🩺 **HelloWellness (USA)** – *React Native + SwiftUI hybrid app* with HealthKit and AI analytics.  
-- ❤️ Passionate about health data, biometric AI, and human-centric product design.
+💼 **Recent Work Highlights**
+- 🎧 **Lucid (Canada)** – *React Native app combining music + biometrics for recovery and flow states.*
+- 💰 **Vureloapp (Colombia)** – *Flutter-based crypto wallet* integrated with blockchain APIs.
+- 💳 **KingTide (USA)** – *Flutter iOS app* with Stripe payments and Firebase OTP.
+- 🩺 **HelloWellness (USA)** – *Hybrid React Native + SwiftUI health tracker* with AI analytics.
+- ❤️ Passionate about **biometric AI**, **clean mobile architecture**, and **human-centered design**.
 
 ---
 
 ### 🧰 Tech Stack
 
-<div align='center'>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg' width='55' title='React Native' alt='React Native' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg' width='45' title='TypeScript' alt='TypeScript' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg' width='45' title='Flutter' alt='Flutter' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg' width='45' title='Dart' alt='Dart' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg' width='45' title='Swift' alt='Swift' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='45' title='Python' alt='Python' />
-  <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg' width='45' title='Firebase' alt='Firebase' />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
+</p>
 
 ---
 
-### 🏗️ Featured Projects
+### 🚀 Featured Projects
 
-- 🎧 **Lucid** – *React Native app with ML-powered biometrics (FaceMesh, HRV, Breathing Rate)*  
-- 💰 **Vureloapp** – *Crypto wallet built in Flutter with blockchain API integration*  
-- 💳 **KingTide** – *Payment and subscription app (Flutter, Stripe, Firebase)*  
-- 🩺 **HelloWellness** – *AI-assisted health tracker (React Native + SwiftUI + HealthKit)*  
-- 🫀 **Estación Vital** – *Flutter app migration and optimization for healthcare in LATAM*  
+| 🧩 Project | 💡 Description |
+|-------------|----------------|
+| 🎧 **Lucid** | *React Native app with ML-powered biometrics (FaceMesh, HRV, Breathing Rate)* |
+| 💰 **Vureloapp** | *Crypto wallet built in Flutter with blockchain API integration* |
+| 💳 **KingTide** | *Payment and subscription app (Flutter, Stripe, Firebase)* |
+| 🩺 **HelloWellness** | *AI-assisted health tracker (React Native + SwiftUI + HealthKit)* |
+| 🫀 **Estación Vital** | *Flutter app migration & optimization for healthcare in LATAM* |
 
-👉 Explore my pinned repositories below for real-world mobile architecture and AI integration examples.
+👉 Check out my **pinned repositories** for real-world examples of mobile architecture, AI integration, and production-ready code.
 
 ---
 
 ### 🌱 Currently Exploring
 
-- Advanced React Native patterns (Expo Router, Reanimated 3, VisionCamera)
-
-### 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/antonio-dante-arista-rivas-mobile-developer/)  
-- 💻 [GitHub](https://github.com/adarista012)  
-- ✉️ [ad.arista012@gmail.com](mailto:ad.arista012@gmail.com)
+- ⚙️ Advanced React Native patterns (*Expo Router, Reanimated 3, VisionCamera*)  
+- 🧬 On-device ML (*Mediapipe, tflite, CoreML integration*)  
+- 🩶 SwiftUI + SwiftData for health visualization and metrics  
 
 ---
 
-⭐️ *“I build mobile experiences that make data feel human.”*
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-dante-arista-rivas-mobile-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/adarista012">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ad.arista012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">⭐️ “I build mobile experiences that make data feel human.”</h4>
