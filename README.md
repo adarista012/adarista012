@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="background: linear-gradient(90deg, #6C63FF, #FF6584); -webkit-background-clip: text; color: transparent;"><strong>Antonio Dante Arista Rivas</strong></span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#6C63FF"><strong>Antonio Dante Arista Rivas</strong></span></h1>
 <h3 align="center">⚡ Senior React Native & Flutter Developer · AI | HealthTech | FinTech</h3>
 
 <p align="center">
@@ -8,28 +8,21 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-<p align="center">
-I’m a <strong>Senior Mobile Developer with 9+ years of experience</strong> building apps for <strong>HealthTech</strong> & <strong>FinTech</strong> across 🇨🇦 🇺🇸 🇲🇽 🇨🇴.  
-I specialize in <strong>React Native</strong> & <strong>Flutter</strong> to craft seamless mobile experiences powered by <strong>AI, biometrics, and intuitive UX</strong>.
-</p>
+I’m a **Senior Mobile Developer with 9+ years of experience** building apps for **HealthTech** and **FinTech** companies across 🇨🇦 🇺🇸 🇲🇽 🇨🇴.  
+Focused on **React Native** & **Flutter**, I create seamless mobile experiences powered by **AI, biometrics, and exceptional UX**.
 
-<div align="center">
-💼 <strong>Recent Highlights:</strong>
-</div>
-
-<div align="center">
-- 🎧 <strong>Lucid (Canada)</strong> – React Native + ML-powered biometrics  
-- 💰 <strong>Vureloapp (Colombia)</strong> – Flutter crypto wallet + blockchain  
-- 💳 <strong>KingTide (USA)</strong> – Flutter payments & Firebase OTP  
-- 🩺 <strong>HelloWellness (USA)</strong> – React Native + SwiftUI health tracker  
-- ❤️ Passionate about <em>biometric AI, clean architecture & human-centered design</em>
-</div>
+💼 **Recent Work Highlights**
+- 🎧 **Lucid (Canada)** – *React Native app combining music + biometrics for recovery and flow states.*
+- 💰 **Vureloapp (Colombia)** – *Flutter-based crypto wallet with blockchain APIs.*
+- 💳 **KingTide (USA)** – *Flutter iOS app with Stripe payments & Firebase OTP.*
+- 🩺 **HelloWellness (USA)** – *Hybrid React Native + SwiftUI health tracker with AI analytics.*
+- ❤️ Passionate about **biometric AI**, **clean architecture**, and **human-centered design**.
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -43,50 +36,31 @@ I specialize in <strong>React Native</strong> & <strong>Flutter</strong> to craf
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
-<details>
-<summary>🎧 Lucid</summary>
-*React Native app with ML-powered biometrics (FaceMesh, HRV, Breathing Rate).*
-</details>
-
-<details>
-<summary>💰 Vureloapp</summary>
-*Flutter crypto wallet integrated with blockchain APIs.*
-</details>
-
-<details>
-<summary>💳 KingTide</summary>
-*Payment & subscription app (Flutter, Stripe, Firebase).*
-</details>
-
-<details>
-<summary>🩺 HelloWellness</summary>
-*AI-assisted health tracker (React Native + SwiftUI + HealthKit).*
-</details>
-
-<details>
-<summary>🫀 Estación Vital</summary>
-*Flutter app migration & optimization for healthcare in LATAM.*
-</details>
+| 🧩 Project | 💡 Description |
+|-----------|----------------|
+| 🎧 **Lucid** | *React Native app with ML-powered biometrics (FaceMesh, HRV, Breathing Rate)* |
+| 💰 **Vureloapp** | *Crypto wallet built in Flutter with blockchain API integration* |
+| 💳 **KingTide** | *Payment & subscription app (Flutter, Stripe, Firebase)* |
+| 🩺 **HelloWellness** | *AI-assisted health tracker (React Native + SwiftUI + HealthKit)* |
+| 🫀 **Estación Vital** | *Flutter app migration & optimization for healthcare in LATAM* |
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+### 🌱 Currently Exploring
 
-<p align="center">
-⚙️ Advanced React Native patterns (<em>Expo Router, Reanimated 3, VisionCamera</em>)  
-🧬 On-device ML (<em>Mediapipe, tflite, CoreML</em>)  
-🩶 SwiftUI + SwiftData for health visualization
-</p>
+- ⚙️ Advanced React Native patterns (*Expo Router, Reanimated 3, VisionCamera*)  
+- 🧬 On-device ML (*Mediapipe, tflite, CoreML integration*)  
+- 🩶 SwiftUI + SwiftData for health visualization & metrics  
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-dante-arista-rivas-mobile-developer/">
@@ -102,6 +76,4 @@ I specialize in <strong>React Native</strong> & <strong>Flutter</strong> to craf
 
 ---
 
-<h4 align="center" style="background: linear-gradient(90deg, #6C63FF, #FF6584); -webkit-background-clip: text; color: transparent;">
-⭐️ “I build mobile experiences that make data feel human.” ⭐️
-</h4>
+<h4 align="center">⭐️ “I build mobile experiences that make data feel human.”</h4>
