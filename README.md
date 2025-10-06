@@ -9,6 +9,12 @@
 <div align='left'>
   <h3>🤓 Languages, Frameworks and tools</h3>
   <div>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg'
+         width='40' height='40' title='ReactNative' alt='ReactNative'
+    />&nbsp;
+    <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg'
+     width='40' height='40' title='TypeScript' alt='TypeScript'
+    />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg'
          width='40' height='40' title='Dart' alt='Dart'
     />&nbsp;
@@ -20,12 +26,6 @@
     />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg'
          width='40' height='40' title='SwiftUi' alt='SwiftUi'
-    />&nbsp;
-<!--     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'
-         width='40' height='40' title='SwiftUi' alt='SwiftUi'
-    />&nbsp; -->
-    <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg'
-         width='40' height='40' title='TypeScript' alt='TypeScript'
     />&nbsp;
     <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'
          width='40' height='40' title='Python' alt='Python'
